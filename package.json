@@ -1,0 +1,14 @@
+{
+  "name": "BluelightingV2.5",
+  "version": "V2.5",
+  "description": "Best Bot Ever From Cloud_lightning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "B4Galaxy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
