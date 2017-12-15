@@ -474,4 +474,4 @@ break;
             }
 });
 
-client.login(process.env.BOT_TOKEN);
+bot.login(process.env.Mzg5NDg5Mjc3MzU4MDQ3MjY1.DRSZ7Q.EOCHuFln8hB4yj2PxgW5bDCJW3o);
